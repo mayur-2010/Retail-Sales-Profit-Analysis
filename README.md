@@ -188,13 +188,7 @@ Retail-Sales-Profit-Dashboard/
 └── README.md
 ```
 
-## 📸 Dashboard Preview
 
-Add your Power BI dashboard screenshot:
-
-```markdown
-![<img width="1154" height="644" alt="image" src="https://github.com/user-attachments/assets/cf6d2558-3452-4912-ad76-4b148d360a8b" />
-)
 ```
 
 ## 🚀 Project Outcome
