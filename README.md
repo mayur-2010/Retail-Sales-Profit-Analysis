@@ -193,10 +193,10 @@ Retail-Sales-Profit-Dashboard/
 
 ## 🚀 Project Outcome
 
-``` This project demonstrates practical skills in **Microsoft Excel and Power BI** for data cleaning, analysis, visualization, dashboard creation, and business intelligence.
+ This project demonstrates practical skills in **Microsoft Excel and Power BI** for data cleaning, analysis, visualization, dashboard creation, and business intelligence.
 
 The final dashboard converts raw retail sales data into meaningful insights that can support **sales and profit analysis and business decision-making**.
-```
+
 
 ## 👨‍💻 Author
 
